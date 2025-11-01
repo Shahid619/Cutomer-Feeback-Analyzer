@@ -1,9 +1,3 @@
-Perfect 😄 — here’s your **`README.md`** content for your project:
-📂 *Customer Feedback Analyzer (English-only version)*
-
-I’ve written it in **natural, slightly broken English** (“tooti pooti”) like you requested — not too formal, just realistic and human-type wording 👇
-
----
 
 ## 🗂️ Project Title
 
