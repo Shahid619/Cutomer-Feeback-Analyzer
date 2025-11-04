@@ -1,401 +1,401 @@
-id,text,cleaned
-1,ugh... delivery took foreverrr 😤😤 frfr,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']"
-2,haha they actually fixed it fast 👏👏 frfr,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'frfr']"
-3,horrible! never ordering again 🤦‍♂️,"['horrible', 'ordering', 'man_facepalming']"
-4,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']"
-5,Product okish... not bad tbh. #fail,"['product', 'okish', 'bad', 'tbh']"
-6,quality was fine ig 🤷‍♂️ ...,"['quality', 'fine', 'ig', 'man_shrugging']"
-7,idk man... the site keeps lagging :(,"['idk', 'man', 'site', 'keeps', 'lagging']"
-8,OMG 😍😍 this app is sooo cool!!! #awesome frfr,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'frfr']"
-9,why the payment keeps failing 😡 @company pls fix!! @brand,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']"
-10,customer srvc was great 👍👍!!!,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-11,order canceled without reason?? 😂😂,"['order', 'canceled', 'reason', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-12,LOVED the new update!!! 💯💯🔥 @brand,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-13,meh... okay experience overall. pls fix,"['meh', 'okay', 'experience', 'overall', 'pls', 'fix']"
-14,haha they actually fixed it fast 👏👏 😂😂,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-15,customer srvc was great 👍👍 smh,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'smh']"
-16,LOVED the new update!!! 💯💯🔥 omg,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'omg']"
-17,customer srvc was great 👍👍 lol,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'lol']"
-18,haha got refund today finally 😂😂 🤣,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'rolling_on_the_floor_laughing']"
-19,brooo this thing is AMAZINGGG 😍🔥!!!,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']"
-20,haha got refund today finally 😂😂 #fail,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-21,why the payment keeps failing 😡 @company pls fix!! 😂😂,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-22,Received item late but okay quality. frfr,"['received', 'item', 'late', 'okay', 'quality', 'frfr']"
-23,wtf was that error msg lol 😂😂 tbh,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'tbh']"
-24,LOVED the new update!!! 💯💯🔥 smh,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'smh']"
-25,yayyyy my order arrived 🥳🥳🥳 @brand,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']"
-26,what the hell is wrong with ur app?? 😤😤!!!,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-27,Received item late but okay quality. lol,"['received', 'item', 'late', 'okay', 'quality', 'lol']"
-28,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']"
-29,Received item late but okay quality. 😂😂,"['received', 'item', 'late', 'okay', 'quality', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-30,horrible! never ordering again 🤦‍♂️ frfr,"['horrible', 'ordering', 'man_facepalming', 'frfr']"
-31,update ruined everything smh 😩 pls fix,"['update', 'ruined', 'smh', 'weary_face', 'pls', 'fix']"
-32,meh... okay experience overall. 🤣,"['meh', 'okay', 'experience', 'overall', 'rolling_on_the_floor_laughing']"
-33,idk man... the site keeps lagging :(!!!,"['idk', 'man', 'site', 'keeps', 'lagging']"
-34,brooo this thing is AMAZINGGG 😍🔥 frfr,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'frfr']"
-35,quality was fine ig 🤷‍♂️ @brand,"['quality', 'fine', 'ig', 'man_shrugging']"
-36,ugh... delivery took foreverrr 😤😤 frfr,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']"
-37,quality was fine ig 🤷‍♂️ #loveit,"['quality', 'fine', 'ig', 'man_shrugging']"
-38,haha got refund today finally 😂😂 #fail,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-39,no issues so far. nice job. @brand,"['issues', 'far', 'nice', 'job']"
-40,ugh... delivery took foreverrr 😤😤,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-41,yayyyy my order arrived 🥳🥳🥳 lol,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'lol']"
-42,no issues so far. nice job. frfr,"['issues', 'far', 'nice', 'job', 'frfr']"
-43,what the hell is wrong with ur app?? 😤😤 🤣,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'rolling_on_the_floor_laughing']"
-44,ugh... delivery took foreverrr 😤😤 frfr,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']"
-45,brooo this thing is AMAZINGGG 😍🔥 🤣,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'rolling_on_the_floor_laughing']"
-46,LOVED the new update!!! 💯💯🔥 😂😂,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-47,haha got refund today finally 😂😂,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-48,quality was fine ig 🤷‍♂️!!!,"['quality', 'fine', 'ig', 'man_shrugging']"
-49,what the hell is wrong with ur app?? 😤😤 💀,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']"
-50,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-51,horrible! never ordering again 🤦‍♂️ frfr,"['horrible', 'ordering', 'man_facepalming', 'frfr']"
-52,brooo this thing is AMAZINGGG 😍🔥 @brand,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']"
-53,Received item late but okay quality. 💀,"['received', 'item', 'late', 'okay', 'quality', 'skull']"
-54,quality was fine ig 🤷‍♂️ @brand,"['quality', 'fine', 'ig', 'man_shrugging']"
-55,idk man... the site keeps lagging :( #loveit,"['idk', 'man', 'site', 'keeps', 'lagging']"
-56,haha they actually fixed it fast 👏👏 @brand,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']"
-57,order canceled without reason?? ...,"['order', 'canceled', 'reason']"
-58,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']"
-59,LOVED the new update!!! 💯💯🔥 lol,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'lol']"
-60,haha they actually fixed it fast 👏👏 🤣,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'rolling_on_the_floor_laughing']"
-61,horrible! never ordering again 🤦‍♂️ 😂😂,"['horrible', 'ordering', 'man_facepalming', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-62,OMG 😍😍 this app is sooo cool!!! #awesome 😂😂,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-63,haha got refund today finally 😂😂 🤣,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'rolling_on_the_floor_laughing']"
-64,customer srvc was great 👍👍 ...,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-65,haha got refund today finally 😂😂 ...,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-66,horrible! never ordering again 🤦‍♂️ frfr,"['horrible', 'ordering', 'man_facepalming', 'frfr']"
-67,ugh... delivery took foreverrr 😤😤 omg,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'omg']"
-68,why the payment keeps failing 😡 @company pls fix!! @brand,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']"
-69,Product okish... not bad tbh. #loveit,"['product', 'okish', 'bad', 'tbh']"
-70,OMG 😍😍 this app is sooo cool!!! #awesome tbh,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'tbh']"
-71,idk man... the site keeps lagging :( #loveit,"['idk', 'man', 'site', 'keeps', 'lagging']"
-72,OMG 😍😍 this app is sooo cool!!! #awesome smh,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'smh']"
-73,brooo this thing is AMAZINGGG 😍🔥 😂😂,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-74,quality was fine ig 🤷‍♂️ tbh,"['quality', 'fine', 'ig', 'man_shrugging', 'tbh']"
-75,meh... okay experience overall. asap,"['meh', 'okay', 'experience', 'overall', 'asap']"
-76,meh... okay experience overall. tbh,"['meh', 'okay', 'experience', 'overall', 'tbh']"
-77,meh... okay experience overall. smh,"['meh', 'okay', 'experience', 'overall', 'smh']"
-78,Product okish... not bad tbh. smh,"['product', 'okish', 'bad', 'tbh', 'smh']"
-79,OMG 😍😍 this app is sooo cool!!! #awesome tbh,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'tbh']"
-80,wtf was that error msg lol 😂😂 omg,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'omg']"
-81,Product okish... not bad tbh. ...,"['product', 'okish', 'bad', 'tbh']"
-82,meh... okay experience overall.,"['meh', 'okay', 'experience', 'overall']"
-83,yayyyy my order arrived 🥳🥳🥳 haha,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'haha']"
-84,no issues so far. nice job.!!!,"['issues', 'far', 'nice', 'job']"
-85,Product okish... not bad tbh. pls fix,"['product', 'okish', 'bad', 'tbh', 'pls', 'fix']"
-86,Product okish... not bad tbh. frfr,"['product', 'okish', 'bad', 'tbh', 'frfr']"
-87,brooo this thing is AMAZINGGG 😍🔥!!!,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']"
-88,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']"
-89,Product okish... not bad tbh. omg,"['product', 'okish', 'bad', 'tbh', 'omg']"
-90,customer srvc was great 👍👍 @brand,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-91,OMG 😍😍 this app is sooo cool!!! #awesome!!!,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-92,haha got refund today finally 😂😂 #review,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-93,brooo this thing is AMAZINGGG 😍🔥 🤣,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'rolling_on_the_floor_laughing']"
-94,quality was fine ig 🤷‍♂️ #fail,"['quality', 'fine', 'ig', 'man_shrugging']"
-95,brooo this thing is AMAZINGGG 😍🔥 pls fix,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'pls', 'fix']"
-96,idk man... the site keeps lagging :( #loveit,"['idk', 'man', 'site', 'keeps', 'lagging']"
-97,customer srvc was great 👍👍 #loveit,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-98,haha got refund today finally 😂😂 @brand,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-99,update ruined everything smh 😩 #loveit,"['update', 'ruined', 'smh', 'weary_face']"
-100,update ruined everything smh 😩 frfr,"['update', 'ruined', 'smh', 'weary_face', 'frfr']"
-101,Received item late but okay quality. @brand,"['received', 'item', 'late', 'okay', 'quality']"
-102,what the hell is wrong with ur app?? 😤😤 lol,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'lol']"
-103,wtf was that error msg lol 😂😂!!!,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-104,meh... okay experience overall. pls fix,"['meh', 'okay', 'experience', 'overall', 'pls', 'fix']"
-105,haha they actually fixed it fast 👏👏 pls fix,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'pls', 'fix']"
-106,no issues so far. nice job. omg,"['issues', 'far', 'nice', 'job', 'omg']"
-107,idk man... the site keeps lagging :( lol,"['idk', 'man', 'site', 'keeps', 'lagging', 'lol']"
-108,idk man... the site keeps lagging :( omg,"['idk', 'man', 'site', 'keeps', 'lagging', 'omg']"
-109,quality was fine ig 🤷‍♂️ omg,"['quality', 'fine', 'ig', 'man_shrugging', 'omg']"
-110,brooo this thing is AMAZINGGG 😍🔥 🤣,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'rolling_on_the_floor_laughing']"
-111,idk man... the site keeps lagging :( asap,"['idk', 'man', 'site', 'keeps', 'lagging', 'asap']"
-112,haha they actually fixed it fast 👏👏 #loveit,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']"
-113,Received item late but okay quality.!!!,"['received', 'item', 'late', 'okay', 'quality']"
-114,why the payment keeps failing 😡 @company pls fix!! ...,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']"
-115,no issues so far. nice job. 🤣,"['issues', 'far', 'nice', 'job', 'rolling_on_the_floor_laughing']"
-116,ugh... delivery took foreverrr 😤😤 smh,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'smh']"
-117,quality was fine ig 🤷‍♂️ frfr,"['quality', 'fine', 'ig', 'man_shrugging', 'frfr']"
-118,horrible! never ordering again 🤦‍♂️ ...,"['horrible', 'ordering', 'man_facepalming']"
-119,brooo this thing is AMAZINGGG 😍🔥 @brand,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']"
-120,customer srvc was great 👍👍 tbh,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'tbh']"
-121,OMG 😍😍 this app is sooo cool!!! #awesome pls fix,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'pls', 'fix']"
-122,meh... okay experience overall.,"['meh', 'okay', 'experience', 'overall']"
-123,why the payment keeps failing 😡 @company pls fix!! #loveit,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']"
-124,haha they actually fixed it fast 👏👏 pls fix,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'pls', 'fix']"
-125,idk man... the site keeps lagging :( smh,"['idk', 'man', 'site', 'keeps', 'lagging', 'smh']"
-126,meh... okay experience overall. asap,"['meh', 'okay', 'experience', 'overall', 'asap']"
-127,update ruined everything smh 😩!!!,"['update', 'ruined', 'smh', 'weary_face']"
-128,wtf was that error msg lol 😂😂 #loveit,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-129,why the payment keeps failing 😡 @company pls fix!! pls fix,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'pls', 'fix']"
-130,why the payment keeps failing 😡 @company pls fix!! 😂😂,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-131,update ruined everything smh 😩 💀,"['update', 'ruined', 'smh', 'weary_face', 'skull']"
-132,brooo this thing is AMAZINGGG 😍🔥 💀,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'skull']"
-133,LOVED the new update!!! 💯💯🔥 pls fix,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'pls', 'fix']"
-134,customer srvc was great 👍👍 frfr,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'frfr']"
-135,Received item late but okay quality. pls fix,"['received', 'item', 'late', 'okay', 'quality', 'pls', 'fix']"
-136,why the payment keeps failing 😡 @company pls fix!! haha,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'haha']"
-137,haha got refund today finally 😂😂 frfr,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'frfr']"
-138,yayyyy my order arrived 🥳🥳🥳 frfr,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'frfr']"
-139,horrible! never ordering again 🤦‍♂️ @brand,"['horrible', 'ordering', 'man_facepalming']"
-140,brooo this thing is AMAZINGGG 😍🔥 😂😂,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-141,Product okish... not bad tbh. #loveit,"['product', 'okish', 'bad', 'tbh']"
-142,ugh... delivery took foreverrr 😤😤 #fail,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-143,haha they actually fixed it fast 👏👏 tbh,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'tbh']"
-144,idk man... the site keeps lagging :( smh,"['idk', 'man', 'site', 'keeps', 'lagging', 'smh']"
-145,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-146,order canceled without reason?? 💀,"['order', 'canceled', 'reason', 'skull']"
-147,brooo this thing is AMAZINGGG 😍🔥 ...,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']"
-148,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']"
-149,LOVED the new update!!! 💯💯🔥,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-150,Product okish... not bad tbh. 💀,"['product', 'okish', 'bad', 'tbh', 'skull']"
-151,idk man... the site keeps lagging :( asap,"['idk', 'man', 'site', 'keeps', 'lagging', 'asap']"
-152,order canceled without reason?? #fail,"['order', 'canceled', 'reason']"
-153,yayyyy my order arrived 🥳🥳🥳 ...,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']"
-154,yayyyy my order arrived 🥳🥳🥳 asap,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'asap']"
-155,Received item late but okay quality. #review,"['received', 'item', 'late', 'okay', 'quality']"
-156,meh... okay experience overall. lol,"['meh', 'okay', 'experience', 'overall', 'lol']"
-157,update ruined everything smh 😩 @brand,"['update', 'ruined', 'smh', 'weary_face']"
-158,LOVED the new update!!! 💯💯🔥!!!,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-159,order canceled without reason?? 🤣,"['order', 'canceled', 'reason', 'rolling_on_the_floor_laughing']"
-160,no issues so far. nice job. #loveit,"['issues', 'far', 'nice', 'job']"
-161,ugh... delivery took foreverrr 😤😤 lol,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'lol']"
-162,haha they actually fixed it fast 👏👏 🤣,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'rolling_on_the_floor_laughing']"
-163,why the payment keeps failing 😡 @company pls fix!! pls fix,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'pls', 'fix']"
-164,ugh... delivery took foreverrr 😤😤 #review,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-165,haha got refund today finally 😂😂 💀,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'skull']"
-166,quality was fine ig 🤷‍♂️ 💀,"['quality', 'fine', 'ig', 'man_shrugging', 'skull']"
-167,haha they actually fixed it fast 👏👏,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']"
-168,Received item late but okay quality. 🤣,"['received', 'item', 'late', 'okay', 'quality', 'rolling_on_the_floor_laughing']"
-169,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']"
-170,LOVED the new update!!! 💯💯🔥 ...,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-171,order canceled without reason?? 💀,"['order', 'canceled', 'reason', 'skull']"
-172,wtf was that error msg lol 😂😂 asap,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'asap']"
-173,why the payment keeps failing 😡 @company pls fix!!,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']"
-174,what the hell is wrong with ur app?? 😤😤!!!,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-175,ugh... delivery took foreverrr 😤😤 omg,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'omg']"
-176,horrible! never ordering again 🤦‍♂️ #fail,"['horrible', 'ordering', 'man_facepalming']"
-177,Received item late but okay quality. #fail,"['received', 'item', 'late', 'okay', 'quality']"
-178,yayyyy my order arrived 🥳🥳🥳,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']"
-179,horrible! never ordering again 🤦‍♂️ smh,"['horrible', 'ordering', 'man_facepalming', 'smh']"
-180,wtf was that error msg lol 😂😂 ...,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-181,ugh... delivery took foreverrr 😤😤 frfr,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']"
-182,Received item late but okay quality. #fail,"['received', 'item', 'late', 'okay', 'quality']"
-183,update ruined everything smh 😩 haha,"['update', 'ruined', 'smh', 'weary_face', 'haha']"
-184,OMG 😍😍 this app is sooo cool!!! #awesome haha,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'haha']"
-185,wtf was that error msg lol 😂😂 #fail,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-186,ugh... delivery took foreverrr 😤😤 tbh,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'tbh']"
-187,LOVED the new update!!! 💯💯🔥 😂😂,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-188,idk man... the site keeps lagging :( @brand,"['idk', 'man', 'site', 'keeps', 'lagging']"
-189,why the payment keeps failing 😡 @company pls fix!!!!!,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']"
-190,horrible! never ordering again 🤦‍♂️ 💀,"['horrible', 'ordering', 'man_facepalming', 'skull']"
-191,LOVED the new update!!! 💯💯🔥 ...,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-192,yayyyy my order arrived 🥳🥳🥳 🤣,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'rolling_on_the_floor_laughing']"
-193,yayyyy my order arrived 🥳🥳🥳 asap,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'asap']"
-194,customer srvc was great 👍👍 tbh,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'tbh']"
-195,haha they actually fixed it fast 👏👏!!!,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']"
-196,OMG 😍😍 this app is sooo cool!!! #awesome #fail,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-197,idk man... the site keeps lagging :( lol,"['idk', 'man', 'site', 'keeps', 'lagging', 'lol']"
-198,Product okish... not bad tbh. smh,"['product', 'okish', 'bad', 'tbh', 'smh']"
-199,haha they actually fixed it fast 👏👏 #review,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']"
-200,what the hell is wrong with ur app?? 😤😤 pls fix,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'pls', 'fix']"
-201,customer srvc was great 👍👍 frfr,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'frfr']"
-202,brooo this thing is AMAZINGGG 😍🔥 frfr,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'frfr']"
-203,no issues so far. nice job. #loveit,"['issues', 'far', 'nice', 'job']"
-204,ugh... delivery took foreverrr 😤😤 asap,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'asap']"
-205,customer srvc was great 👍👍 #loveit,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-206,update ruined everything smh 😩 @brand,"['update', 'ruined', 'smh', 'weary_face']"
-207,LOVED the new update!!! 💯💯🔥 omg,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'omg']"
-208,horrible! never ordering again 🤦‍♂️ 🤣,"['horrible', 'ordering', 'man_facepalming', 'rolling_on_the_floor_laughing']"
-209,wtf was that error msg lol 😂😂,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-210,what the hell is wrong with ur app?? 😤😤 #fail,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-211,customer srvc was great 👍👍 lol,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'lol']"
-212,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-213,quality was fine ig 🤷‍♂️ @brand,"['quality', 'fine', 'ig', 'man_shrugging']"
-214,ugh... delivery took foreverrr 😤😤 pls fix,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'pls', 'fix']"
-215,wtf was that error msg lol 😂😂 lol,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'lol']"
-216,no issues so far. nice job. pls fix,"['issues', 'far', 'nice', 'job', 'pls', 'fix']"
-217,order canceled without reason?? tbh,"['order', 'canceled', 'reason', 'tbh']"
-218,haha they actually fixed it fast 👏👏 🤣,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'rolling_on_the_floor_laughing']"
-219,horrible! never ordering again 🤦‍♂️ #fail,"['horrible', 'ordering', 'man_facepalming']"
-220,OMG 😍😍 this app is sooo cool!!! #awesome!!!,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-221,what the hell is wrong with ur app?? 😤😤 💀,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']"
-222,update ruined everything smh 😩 pls fix,"['update', 'ruined', 'smh', 'weary_face', 'pls', 'fix']"
-223,ugh... delivery took foreverrr 😤😤 ...,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-224,update ruined everything smh 😩 😂😂,"['update', 'ruined', 'smh', 'weary_face', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-225,LOVED the new update!!! 💯💯🔥 #fail,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-226,ugh... delivery took foreverrr 😤😤 lol,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'lol']"
-227,yayyyy my order arrived 🥳🥳🥳 haha,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'haha']"
-228,quality was fine ig 🤷‍♂️,"['quality', 'fine', 'ig', 'man_shrugging']"
-229,Product okish... not bad tbh. pls fix,"['product', 'okish', 'bad', 'tbh', 'pls', 'fix']"
-230,order canceled without reason?? omg,"['order', 'canceled', 'reason', 'omg']"
-231,order canceled without reason?? pls fix,"['order', 'canceled', 'reason', 'pls', 'fix']"
-232,ugh... delivery took foreverrr 😤😤 pls fix,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'pls', 'fix']"
-233,wtf was that error msg lol 😂😂 tbh,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'tbh']"
-234,horrible! never ordering again 🤦‍♂️ 🤣,"['horrible', 'ordering', 'man_facepalming', 'rolling_on_the_floor_laughing']"
-235,idk man... the site keeps lagging :( haha,"['idk', 'man', 'site', 'keeps', 'lagging', 'haha']"
-236,horrible! never ordering again 🤦‍♂️ haha,"['horrible', 'ordering', 'man_facepalming', 'haha']"
-237,OMG 😍😍 this app is sooo cool!!! #awesome #fail,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-238,what the hell is wrong with ur app?? 😤😤 omg,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'omg']"
-239,update ruined everything smh 😩 smh,"['update', 'ruined', 'smh', 'weary_face', 'smh']"
-240,OMG 😍😍 this app is sooo cool!!! #awesome 🤣,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'rolling_on_the_floor_laughing']"
-241,order canceled without reason?? smh,"['order', 'canceled', 'reason', 'smh']"
-242,brooo this thing is AMAZINGGG 😍🔥!!!,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']"
-243,wtf was that error msg lol 😂😂!!!,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-244,customer srvc was great 👍👍 💀,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'skull']"
-245,Received item late but okay quality. asap,"['received', 'item', 'late', 'okay', 'quality', 'asap']"
-246,order canceled without reason?? 💀,"['order', 'canceled', 'reason', 'skull']"
-247,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']"
-248,horrible! never ordering again 🤦‍♂️ haha,"['horrible', 'ordering', 'man_facepalming', 'haha']"
-249,meh... okay experience overall.,"['meh', 'okay', 'experience', 'overall']"
-250,LOVED the new update!!! 💯💯🔥 ...,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-251,idk man... the site keeps lagging :( omg,"['idk', 'man', 'site', 'keeps', 'lagging', 'omg']"
-252,order canceled without reason?? lol,"['order', 'canceled', 'reason', 'lol']"
-253,meh... okay experience overall. asap,"['meh', 'okay', 'experience', 'overall', 'asap']"
-254,what the hell is wrong with ur app?? 😤😤 tbh,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'tbh']"
-255,idk man... the site keeps lagging :( 💀,"['idk', 'man', 'site', 'keeps', 'lagging', 'skull']"
-256,customer srvc was great 👍👍!!!,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-257,customer srvc was great 👍👍 🤣,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'rolling_on_the_floor_laughing']"
-258,customer srvc was great 👍👍 asap,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'asap']"
-259,no issues so far. nice job. asap,"['issues', 'far', 'nice', 'job', 'asap']"
-260,Received item late but okay quality. #fail,"['received', 'item', 'late', 'okay', 'quality']"
-261,brooo this thing is AMAZINGGG 😍🔥 frfr,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'frfr']"
-262,ugh... delivery took foreverrr 😤😤 @brand,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-263,OMG 😍😍 this app is sooo cool!!! #awesome,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-264,what the hell is wrong with ur app?? 😤😤 #review,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-265,brooo this thing is AMAZINGGG 😍🔥 asap,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'asap']"
-266,Received item late but okay quality. #review,"['received', 'item', 'late', 'okay', 'quality']"
-267,quality was fine ig 🤷‍♂️ 🤣,"['quality', 'fine', 'ig', 'man_shrugging', 'rolling_on_the_floor_laughing']"
-268,customer srvc was great 👍👍 #review,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-269,update ruined everything smh 😩 #review,"['update', 'ruined', 'smh', 'weary_face']"
-270,ugh... delivery took foreverrr 😤😤 asap,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'asap']"
-271,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']"
-272,OMG 😍😍 this app is sooo cool!!! #awesome asap,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'asap']"
-273,ugh... delivery took foreverrr 😤😤 #fail,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-274,Product okish... not bad tbh. 💀,"['product', 'okish', 'bad', 'tbh', 'skull']"
-275,customer srvc was great 👍👍 #fail,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-276,meh... okay experience overall.,"['meh', 'okay', 'experience', 'overall']"
-277,meh... okay experience overall. pls fix,"['meh', 'okay', 'experience', 'overall', 'pls', 'fix']"
-278,LOVED the new update!!! 💯💯🔥 omg,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'omg']"
-279,quality was fine ig 🤷‍♂️ omg,"['quality', 'fine', 'ig', 'man_shrugging', 'omg']"
-280,OMG 😍😍 this app is sooo cool!!! #awesome,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-281,wtf was that error msg lol 😂😂 @brand,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-282,why the payment keeps failing 😡 @company pls fix!! 😂😂,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-283,haha they actually fixed it fast 👏👏 omg,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'omg']"
-284,horrible! never ordering again 🤦‍♂️ 🤣,"['horrible', 'ordering', 'man_facepalming', 'rolling_on_the_floor_laughing']"
-285,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']"
-286,Received item late but okay quality. 😂😂,"['received', 'item', 'late', 'okay', 'quality', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-287,Product okish... not bad tbh. @brand,"['product', 'okish', 'bad', 'tbh']"
-288,update ruined everything smh 😩 🤣,"['update', 'ruined', 'smh', 'weary_face', 'rolling_on_the_floor_laughing']"
-289,update ruined everything smh 😩!!!,"['update', 'ruined', 'smh', 'weary_face']"
-290,what the hell is wrong with ur app?? 😤😤!!!,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-291,Received item late but okay quality. ...,"['received', 'item', 'late', 'okay', 'quality']"
-292,ugh... delivery took foreverrr 😤😤 #review,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-293,update ruined everything smh 😩 #review,"['update', 'ruined', 'smh', 'weary_face']"
-294,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']"
-295,quality was fine ig 🤷‍♂️!!!,"['quality', 'fine', 'ig', 'man_shrugging']"
-296,ugh... delivery took foreverrr 😤😤 smh,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'smh']"
-297,brooo this thing is AMAZINGGG 😍🔥 ...,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']"
-298,why the payment keeps failing 😡 @company pls fix!! asap,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'asap']"
-299,yayyyy my order arrived 🥳🥳🥳 #loveit,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']"
-300,OMG 😍😍 this app is sooo cool!!! #awesome pls fix,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'pls', 'fix']"
-301,quality was fine ig 🤷‍♂️ tbh,"['quality', 'fine', 'ig', 'man_shrugging', 'tbh']"
-302,horrible! never ordering again 🤦‍♂️ asap,"['horrible', 'ordering', 'man_facepalming', 'asap']"
-303,ugh... delivery took foreverrr 😤😤 😂😂,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-304,wtf was that error msg lol 😂😂!!!,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-305,idk man... the site keeps lagging :( lol,"['idk', 'man', 'site', 'keeps', 'lagging', 'lol']"
-306,Received item late but okay quality. #fail,"['received', 'item', 'late', 'okay', 'quality']"
-307,haha got refund today finally 😂😂 ...,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-308,what the hell is wrong with ur app?? 😤😤 #review,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-309,idk man... the site keeps lagging :( tbh,"['idk', 'man', 'site', 'keeps', 'lagging', 'tbh']"
-310,meh... okay experience overall. lol,"['meh', 'okay', 'experience', 'overall', 'lol']"
-311,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']"
-312,order canceled without reason?? #fail,"['order', 'canceled', 'reason']"
-313,Received item late but okay quality. #loveit,"['received', 'item', 'late', 'okay', 'quality']"
-314,what the hell is wrong with ur app?? 😤😤 pls fix,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'pls', 'fix']"
-315,idk man... the site keeps lagging :( frfr,"['idk', 'man', 'site', 'keeps', 'lagging', 'frfr']"
-316,no issues so far. nice job. tbh,"['issues', 'far', 'nice', 'job', 'tbh']"
-317,order canceled without reason?? tbh,"['order', 'canceled', 'reason', 'tbh']"
-318,haha they actually fixed it fast 👏👏 🤣,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'rolling_on_the_floor_laughing']"
-319,yayyyy my order arrived 🥳🥳🥳 😂😂,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-320,Received item late but okay quality. #review,"['received', 'item', 'late', 'okay', 'quality']"
-321,OMG 😍😍 this app is sooo cool!!! #awesome #loveit,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-322,yayyyy my order arrived 🥳🥳🥳 omg,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'omg']"
-323,customer srvc was great 👍👍 asap,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'asap']"
-324,idk man... the site keeps lagging :( pls fix,"['idk', 'man', 'site', 'keeps', 'lagging', 'pls', 'fix']"
-325,update ruined everything smh 😩 omg,"['update', 'ruined', 'smh', 'weary_face', 'omg']"
-326,wtf was that error msg lol 😂😂 🤣,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'rolling_on_the_floor_laughing']"
-327,LOVED the new update!!! 💯💯🔥 lol,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'lol']"
-328,yayyyy my order arrived 🥳🥳🥳,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']"
-329,brooo this thing is AMAZINGGG 😍🔥 pls fix,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'pls', 'fix']"
-330,why the payment keeps failing 😡 @company pls fix!! #loveit,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']"
-331,horrible! never ordering again 🤦‍♂️ #loveit,"['horrible', 'ordering', 'man_facepalming']"
-332,Product okish... not bad tbh. tbh,"['product', 'okish', 'bad', 'tbh', 'tbh']"
-333,haha got refund today finally 😂😂 #review,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-334,yayyyy my order arrived 🥳🥳🥳 💀,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'skull']"
-335,wtf was that error msg lol 😂😂,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-336,OMG 😍😍 this app is sooo cool!!! #awesome,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-337,LOVED the new update!!! 💯💯🔥 @brand,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-338,horrible! never ordering again 🤦‍♂️ smh,"['horrible', 'ordering', 'man_facepalming', 'smh']"
-339,brooo this thing is AMAZINGGG 😍🔥 haha,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'haha']"
-340,wtf was that error msg lol 😂😂 tbh,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'tbh']"
-341,wtf was that error msg lol 😂😂 #loveit,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-342,order canceled without reason?? asap,"['order', 'canceled', 'reason', 'asap']"
-343,Product okish... not bad tbh. omg,"['product', 'okish', 'bad', 'tbh', 'omg']"
-344,no issues so far. nice job. tbh,"['issues', 'far', 'nice', 'job', 'tbh']"
-345,update ruined everything smh 😩 #loveit,"['update', 'ruined', 'smh', 'weary_face']"
-346,LOVED the new update!!! 💯💯🔥 omg,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'omg']"
-347,OMG 😍😍 this app is sooo cool!!! #awesome tbh,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'tbh']"
-348,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-349,no issues so far. nice job.,"['issues', 'far', 'nice', 'job']"
-350,idk man... the site keeps lagging :(!!!,"['idk', 'man', 'site', 'keeps', 'lagging']"
-351,customer srvc was great 👍👍 @brand,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-352,LOVED the new update!!! 💯💯🔥 tbh,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'tbh']"
-353,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']"
-354,what the hell is wrong with ur app?? 😤😤,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-355,meh... okay experience overall. 🤣,"['meh', 'okay', 'experience', 'overall', 'rolling_on_the_floor_laughing']"
-356,Product okish... not bad tbh. haha,"['product', 'okish', 'bad', 'tbh', 'haha']"
-357,customer srvc was great 👍👍!!!,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-358,horrible! never ordering again 🤦‍♂️ lol,"['horrible', 'ordering', 'man_facepalming', 'lol']"
-359,update ruined everything smh 😩 💀,"['update', 'ruined', 'smh', 'weary_face', 'skull']"
-360,brooo this thing is AMAZINGGG 😍🔥 lol,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'lol']"
-361,wtf was that error msg lol 😂😂 💀,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'skull']"
-362,why the payment keeps failing 😡 @company pls fix!! pls fix,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'pls', 'fix']"
-363,customer srvc was great 👍👍 #loveit,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-364,LOVED the new update!!! 💯💯🔥 #fail,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-365,meh... okay experience overall. 😂😂,"['meh', 'okay', 'experience', 'overall', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-366,haha they actually fixed it fast 👏👏 😂😂,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-367,brooo this thing is AMAZINGGG 😍🔥 omg,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'omg']"
-368,what the hell is wrong with ur app?? 😤😤 asap,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'asap']"
-369,update ruined everything smh 😩,"['update', 'ruined', 'smh', 'weary_face']"
-370,customer srvc was great 👍👍 ...,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']"
-371,order canceled without reason?? 💀,"['order', 'canceled', 'reason', 'skull']"
-372,what the hell is wrong with ur app?? 😤😤 @brand,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-373,wtf was that error msg lol 😂😂 @brand,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-374,horrible! never ordering again 🤦‍♂️!!!,"['horrible', 'ordering', 'man_facepalming']"
-375,haha got refund today finally 😂😂 pls fix,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'pls', 'fix']"
-376,update ruined everything smh 😩 😂😂,"['update', 'ruined', 'smh', 'weary_face', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-377,yayyyy my order arrived 🥳🥳🥳 haha,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'haha']"
-378,haha they actually fixed it fast 👏👏 #fail,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']"
-379,yayyyy my order arrived 🥳🥳🥳 💀,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'skull']"
-380,brooo this thing is AMAZINGGG 😍🔥 #fail,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']"
-381,horrible! never ordering again 🤦‍♂️ 🤣,"['horrible', 'ordering', 'man_facepalming', 'rolling_on_the_floor_laughing']"
-382,LOVED the new update!!! 💯💯🔥 #fail,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']"
-383,customer srvc was great 👍👍 lol,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'lol']"
-384,order canceled without reason?? #loveit,"['order', 'canceled', 'reason']"
-385,brooo this thing is AMAZINGGG 😍🔥 frfr,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'frfr']"
-386,wtf was that error msg lol 😂😂 #fail,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-387,haha got refund today finally 😂😂 tbh,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'tbh']"
-388,meh... okay experience overall. 🤣,"['meh', 'okay', 'experience', 'overall', 'rolling_on_the_floor_laughing']"
-389,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']"
-390,no issues so far. nice job. pls fix,"['issues', 'far', 'nice', 'job', 'pls', 'fix']"
-391,order canceled without reason??!!!,"['order', 'canceled', 'reason']"
-392,ugh... delivery took foreverrr 😤😤,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']"
-393,order canceled without reason??!!!,"['order', 'canceled', 'reason']"
-394,wtf was that error msg lol 😂😂!!!,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-395,wtf was that error msg lol 😂😂 😂😂,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-396,what the hell is wrong with ur app?? 😤😤 😂😂,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'face_with_tears_of_joy::face_with_tears_of_joy']"
-397,what the hell is wrong with ur app?? 😤😤 frfr,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']"
-398,Product okish... not bad tbh. frfr,"['product', 'okish', 'bad', 'tbh', 'frfr']"
-399,Product okish... not bad tbh. #review,"['product', 'okish', 'bad', 'tbh']"
-400,haha they actually fixed it fast 👏👏 asap,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'asap']"
+id,text,cleaned,sentiment
+1,ugh... delivery took foreverrr 😤😤 frfr,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']",negative
+2,haha they actually fixed it fast 👏👏 frfr,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'frfr']",positive
+3,horrible! never ordering again 🤦‍♂️,"['horrible', 'ordering', 'man_facepalming']",negative
+4,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']",negative
+5,Product okish... not bad tbh. #fail,"['product', 'okish', 'bad', 'tbh']",negative
+6,quality was fine ig 🤷‍♂️ ...,"['quality', 'fine', 'ig', 'man_shrugging']",negative
+7,idk man... the site keeps lagging :(,"['idk', 'man', 'site', 'keeps', 'lagging']",negative
+8,OMG 😍😍 this app is sooo cool!!! #awesome frfr,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'frfr']",positive
+9,why the payment keeps failing 😡 @company pls fix!! @brand,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']",negative
+10,customer srvc was great 👍👍!!!,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+11,order canceled without reason?? 😂😂,"['order', 'canceled', 'reason', 'face_with_tears_of_joy::face_with_tears_of_joy']",negative
+12,LOVED the new update!!! 💯💯🔥 @brand,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+13,meh... okay experience overall. pls fix,"['meh', 'okay', 'experience', 'overall', 'pls', 'fix']",negative
+14,haha they actually fixed it fast 👏👏 😂😂,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+15,customer srvc was great 👍👍 smh,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'smh']",positive
+16,LOVED the new update!!! 💯💯🔥 omg,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'omg']",positive
+17,customer srvc was great 👍👍 lol,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'lol']",positive
+18,haha got refund today finally 😂😂 🤣,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'rolling_on_the_floor_laughing']",positive
+19,brooo this thing is AMAZINGGG 😍🔥!!!,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']",positive
+20,haha got refund today finally 😂😂 #fail,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+21,why the payment keeps failing 😡 @company pls fix!! 😂😂,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'face_with_tears_of_joy::face_with_tears_of_joy']",negative
+22,Received item late but okay quality. frfr,"['received', 'item', 'late', 'okay', 'quality', 'frfr']",negative
+23,wtf was that error msg lol 😂😂 tbh,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'tbh']",negative
+24,LOVED the new update!!! 💯💯🔥 smh,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'smh']",neutral
+25,yayyyy my order arrived 🥳🥳🥳 @brand,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']",positive
+26,what the hell is wrong with ur app?? 😤😤!!!,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+27,Received item late but okay quality. lol,"['received', 'item', 'late', 'okay', 'quality', 'lol']",neutral
+28,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']",negative
+29,Received item late but okay quality. 😂😂,"['received', 'item', 'late', 'okay', 'quality', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+30,horrible! never ordering again 🤦‍♂️ frfr,"['horrible', 'ordering', 'man_facepalming', 'frfr']",negative
+31,update ruined everything smh 😩 pls fix,"['update', 'ruined', 'smh', 'weary_face', 'pls', 'fix']",negative
+32,meh... okay experience overall. 🤣,"['meh', 'okay', 'experience', 'overall', 'rolling_on_the_floor_laughing']",negative
+33,idk man... the site keeps lagging :(!!!,"['idk', 'man', 'site', 'keeps', 'lagging']",negative
+34,brooo this thing is AMAZINGGG 😍🔥 frfr,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'frfr']",positive
+35,quality was fine ig 🤷‍♂️ @brand,"['quality', 'fine', 'ig', 'man_shrugging']",negative
+36,ugh... delivery took foreverrr 😤😤 frfr,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']",negative
+37,quality was fine ig 🤷‍♂️ #loveit,"['quality', 'fine', 'ig', 'man_shrugging']",negative
+38,haha got refund today finally 😂😂 #fail,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+39,no issues so far. nice job. @brand,"['issues', 'far', 'nice', 'job']",neutral
+40,ugh... delivery took foreverrr 😤😤,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+41,yayyyy my order arrived 🥳🥳🥳 lol,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'lol']",positive
+42,no issues so far. nice job. frfr,"['issues', 'far', 'nice', 'job', 'frfr']",neutral
+43,what the hell is wrong with ur app?? 😤😤 🤣,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'rolling_on_the_floor_laughing']",negative
+44,ugh... delivery took foreverrr 😤😤 frfr,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']",negative
+45,brooo this thing is AMAZINGGG 😍🔥 🤣,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'rolling_on_the_floor_laughing']",positive
+46,LOVED the new update!!! 💯💯🔥 😂😂,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+47,haha got refund today finally 😂😂,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+48,quality was fine ig 🤷‍♂️!!!,"['quality', 'fine', 'ig', 'man_shrugging']",negative
+49,what the hell is wrong with ur app?? 😤😤 💀,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']",negative
+50,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+51,horrible! never ordering again 🤦‍♂️ frfr,"['horrible', 'ordering', 'man_facepalming', 'frfr']",negative
+52,brooo this thing is AMAZINGGG 😍🔥 @brand,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']",positive
+53,Received item late but okay quality. 💀,"['received', 'item', 'late', 'okay', 'quality', 'skull']",negative
+54,quality was fine ig 🤷‍♂️ @brand,"['quality', 'fine', 'ig', 'man_shrugging']",negative
+55,idk man... the site keeps lagging :( #loveit,"['idk', 'man', 'site', 'keeps', 'lagging']",negative
+56,haha they actually fixed it fast 👏👏 @brand,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']",positive
+57,order canceled without reason?? ...,"['order', 'canceled', 'reason']",negative
+58,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']",neutral
+59,LOVED the new update!!! 💯💯🔥 lol,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'lol']",positive
+60,haha they actually fixed it fast 👏👏 🤣,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'rolling_on_the_floor_laughing']",positive
+61,horrible! never ordering again 🤦‍♂️ 😂😂,"['horrible', 'ordering', 'man_facepalming', 'face_with_tears_of_joy::face_with_tears_of_joy']",negative
+62,OMG 😍😍 this app is sooo cool!!! #awesome 😂😂,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+63,haha got refund today finally 😂😂 🤣,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'rolling_on_the_floor_laughing']",positive
+64,customer srvc was great 👍👍 ...,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+65,haha got refund today finally 😂😂 ...,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+66,horrible! never ordering again 🤦‍♂️ frfr,"['horrible', 'ordering', 'man_facepalming', 'frfr']",negative
+67,ugh... delivery took foreverrr 😤😤 omg,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'omg']",negative
+68,why the payment keeps failing 😡 @company pls fix!! @brand,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']",negative
+69,Product okish... not bad tbh. #loveit,"['product', 'okish', 'bad', 'tbh']",negative
+70,OMG 😍😍 this app is sooo cool!!! #awesome tbh,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'tbh']",positive
+71,idk man... the site keeps lagging :( #loveit,"['idk', 'man', 'site', 'keeps', 'lagging']",negative
+72,OMG 😍😍 this app is sooo cool!!! #awesome smh,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'smh']",positive
+73,brooo this thing is AMAZINGGG 😍🔥 😂😂,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+74,quality was fine ig 🤷‍♂️ tbh,"['quality', 'fine', 'ig', 'man_shrugging', 'tbh']",negative
+75,meh... okay experience overall. asap,"['meh', 'okay', 'experience', 'overall', 'asap']",negative
+76,meh... okay experience overall. tbh,"['meh', 'okay', 'experience', 'overall', 'tbh']",negative
+77,meh... okay experience overall. smh,"['meh', 'okay', 'experience', 'overall', 'smh']",negative
+78,Product okish... not bad tbh. smh,"['product', 'okish', 'bad', 'tbh', 'smh']",negative
+79,OMG 😍😍 this app is sooo cool!!! #awesome tbh,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'tbh']",positive
+80,wtf was that error msg lol 😂😂 omg,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'omg']",neutral
+81,Product okish... not bad tbh. ...,"['product', 'okish', 'bad', 'tbh']",negative
+82,meh... okay experience overall.,"['meh', 'okay', 'experience', 'overall']",negative
+83,yayyyy my order arrived 🥳🥳🥳 haha,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'haha']",positive
+84,no issues so far. nice job.!!!,"['issues', 'far', 'nice', 'job']",neutral
+85,Product okish... not bad tbh. pls fix,"['product', 'okish', 'bad', 'tbh', 'pls', 'fix']",negative
+86,Product okish... not bad tbh. frfr,"['product', 'okish', 'bad', 'tbh', 'frfr']",negative
+87,brooo this thing is AMAZINGGG 😍🔥!!!,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']",positive
+88,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']",negative
+89,Product okish... not bad tbh. omg,"['product', 'okish', 'bad', 'tbh', 'omg']",negative
+90,customer srvc was great 👍👍 @brand,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+91,OMG 😍😍 this app is sooo cool!!! #awesome!!!,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+92,haha got refund today finally 😂😂 #review,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+93,brooo this thing is AMAZINGGG 😍🔥 🤣,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'rolling_on_the_floor_laughing']",positive
+94,quality was fine ig 🤷‍♂️ #fail,"['quality', 'fine', 'ig', 'man_shrugging']",negative
+95,brooo this thing is AMAZINGGG 😍🔥 pls fix,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'pls', 'fix']",positive
+96,idk man... the site keeps lagging :( #loveit,"['idk', 'man', 'site', 'keeps', 'lagging']",negative
+97,customer srvc was great 👍👍 #loveit,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+98,haha got refund today finally 😂😂 @brand,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+99,update ruined everything smh 😩 #loveit,"['update', 'ruined', 'smh', 'weary_face']",negative
+100,update ruined everything smh 😩 frfr,"['update', 'ruined', 'smh', 'weary_face', 'frfr']",negative
+101,Received item late but okay quality. @brand,"['received', 'item', 'late', 'okay', 'quality']",negative
+102,what the hell is wrong with ur app?? 😤😤 lol,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'lol']",negative
+103,wtf was that error msg lol 😂😂!!!,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+104,meh... okay experience overall. pls fix,"['meh', 'okay', 'experience', 'overall', 'pls', 'fix']",negative
+105,haha they actually fixed it fast 👏👏 pls fix,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'pls', 'fix']",neutral
+106,no issues so far. nice job. omg,"['issues', 'far', 'nice', 'job', 'omg']",neutral
+107,idk man... the site keeps lagging :( lol,"['idk', 'man', 'site', 'keeps', 'lagging', 'lol']",negative
+108,idk man... the site keeps lagging :( omg,"['idk', 'man', 'site', 'keeps', 'lagging', 'omg']",negative
+109,quality was fine ig 🤷‍♂️ omg,"['quality', 'fine', 'ig', 'man_shrugging', 'omg']",negative
+110,brooo this thing is AMAZINGGG 😍🔥 🤣,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'rolling_on_the_floor_laughing']",positive
+111,idk man... the site keeps lagging :( asap,"['idk', 'man', 'site', 'keeps', 'lagging', 'asap']",negative
+112,haha they actually fixed it fast 👏👏 #loveit,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']",positive
+113,Received item late but okay quality.!!!,"['received', 'item', 'late', 'okay', 'quality']",negative
+114,why the payment keeps failing 😡 @company pls fix!! ...,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']",negative
+115,no issues so far. nice job. 🤣,"['issues', 'far', 'nice', 'job', 'rolling_on_the_floor_laughing']",neutral
+116,ugh... delivery took foreverrr 😤😤 smh,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'smh']",negative
+117,quality was fine ig 🤷‍♂️ frfr,"['quality', 'fine', 'ig', 'man_shrugging', 'frfr']",negative
+118,horrible! never ordering again 🤦‍♂️ ...,"['horrible', 'ordering', 'man_facepalming']",negative
+119,brooo this thing is AMAZINGGG 😍🔥 @brand,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']",positive
+120,customer srvc was great 👍👍 tbh,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'tbh']",positive
+121,OMG 😍😍 this app is sooo cool!!! #awesome pls fix,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'pls', 'fix']",positive
+122,meh... okay experience overall.,"['meh', 'okay', 'experience', 'overall']",negative
+123,why the payment keeps failing 😡 @company pls fix!! #loveit,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']",negative
+124,haha they actually fixed it fast 👏👏 pls fix,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'pls', 'fix']",neutral
+125,idk man... the site keeps lagging :( smh,"['idk', 'man', 'site', 'keeps', 'lagging', 'smh']",negative
+126,meh... okay experience overall. asap,"['meh', 'okay', 'experience', 'overall', 'asap']",negative
+127,update ruined everything smh 😩!!!,"['update', 'ruined', 'smh', 'weary_face']",negative
+128,wtf was that error msg lol 😂😂 #loveit,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+129,why the payment keeps failing 😡 @company pls fix!! pls fix,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'pls', 'fix']",negative
+130,why the payment keeps failing 😡 @company pls fix!! 😂😂,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'face_with_tears_of_joy::face_with_tears_of_joy']",negative
+131,update ruined everything smh 😩 💀,"['update', 'ruined', 'smh', 'weary_face', 'skull']",negative
+132,brooo this thing is AMAZINGGG 😍🔥 💀,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'skull']",positive
+133,LOVED the new update!!! 💯💯🔥 pls fix,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'pls', 'fix']",negative
+134,customer srvc was great 👍👍 frfr,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'frfr']",positive
+135,Received item late but okay quality. pls fix,"['received', 'item', 'late', 'okay', 'quality', 'pls', 'fix']",negative
+136,why the payment keeps failing 😡 @company pls fix!! haha,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'haha']",negative
+137,haha got refund today finally 😂😂 frfr,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'frfr']",positive
+138,yayyyy my order arrived 🥳🥳🥳 frfr,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'frfr']",positive
+139,horrible! never ordering again 🤦‍♂️ @brand,"['horrible', 'ordering', 'man_facepalming']",negative
+140,brooo this thing is AMAZINGGG 😍🔥 😂😂,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+141,Product okish... not bad tbh. #loveit,"['product', 'okish', 'bad', 'tbh']",negative
+142,ugh... delivery took foreverrr 😤😤 #fail,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+143,haha they actually fixed it fast 👏👏 tbh,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'tbh']",positive
+144,idk man... the site keeps lagging :( smh,"['idk', 'man', 'site', 'keeps', 'lagging', 'smh']",negative
+145,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+146,order canceled without reason?? 💀,"['order', 'canceled', 'reason', 'skull']",negative
+147,brooo this thing is AMAZINGGG 😍🔥 ...,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']",positive
+148,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']",neutral
+149,LOVED the new update!!! 💯💯🔥,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+150,Product okish... not bad tbh. 💀,"['product', 'okish', 'bad', 'tbh', 'skull']",negative
+151,idk man... the site keeps lagging :( asap,"['idk', 'man', 'site', 'keeps', 'lagging', 'asap']",negative
+152,order canceled without reason?? #fail,"['order', 'canceled', 'reason']",negative
+153,yayyyy my order arrived 🥳🥳🥳 ...,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']",positive
+154,yayyyy my order arrived 🥳🥳🥳 asap,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'asap']",positive
+155,Received item late but okay quality. #review,"['received', 'item', 'late', 'okay', 'quality']",negative
+156,meh... okay experience overall. lol,"['meh', 'okay', 'experience', 'overall', 'lol']",neutral
+157,update ruined everything smh 😩 @brand,"['update', 'ruined', 'smh', 'weary_face']",negative
+158,LOVED the new update!!! 💯💯🔥!!!,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+159,order canceled without reason?? 🤣,"['order', 'canceled', 'reason', 'rolling_on_the_floor_laughing']",negative
+160,no issues so far. nice job. #loveit,"['issues', 'far', 'nice', 'job']",neutral
+161,ugh... delivery took foreverrr 😤😤 lol,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'lol']",negative
+162,haha they actually fixed it fast 👏👏 🤣,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'rolling_on_the_floor_laughing']",positive
+163,why the payment keeps failing 😡 @company pls fix!! pls fix,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'pls', 'fix']",negative
+164,ugh... delivery took foreverrr 😤😤 #review,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+165,haha got refund today finally 😂😂 💀,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'skull']",positive
+166,quality was fine ig 🤷‍♂️ 💀,"['quality', 'fine', 'ig', 'man_shrugging', 'skull']",negative
+167,haha they actually fixed it fast 👏👏,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']",positive
+168,Received item late but okay quality. 🤣,"['received', 'item', 'late', 'okay', 'quality', 'rolling_on_the_floor_laughing']",negative
+169,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']",negative
+170,LOVED the new update!!! 💯💯🔥 ...,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+171,order canceled without reason?? 💀,"['order', 'canceled', 'reason', 'skull']",negative
+172,wtf was that error msg lol 😂😂 asap,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'asap']",negative
+173,why the payment keeps failing 😡 @company pls fix!!,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']",negative
+174,what the hell is wrong with ur app?? 😤😤!!!,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+175,ugh... delivery took foreverrr 😤😤 omg,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'omg']",negative
+176,horrible! never ordering again 🤦‍♂️ #fail,"['horrible', 'ordering', 'man_facepalming']",negative
+177,Received item late but okay quality. #fail,"['received', 'item', 'late', 'okay', 'quality']",negative
+178,yayyyy my order arrived 🥳🥳🥳,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']",positive
+179,horrible! never ordering again 🤦‍♂️ smh,"['horrible', 'ordering', 'man_facepalming', 'smh']",negative
+180,wtf was that error msg lol 😂😂 ...,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+181,ugh... delivery took foreverrr 😤😤 frfr,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']",negative
+182,Received item late but okay quality. #fail,"['received', 'item', 'late', 'okay', 'quality']",negative
+183,update ruined everything smh 😩 haha,"['update', 'ruined', 'smh', 'weary_face', 'haha']",negative
+184,OMG 😍😍 this app is sooo cool!!! #awesome haha,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'haha']",positive
+185,wtf was that error msg lol 😂😂 #fail,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+186,ugh... delivery took foreverrr 😤😤 tbh,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'tbh']",negative
+187,LOVED the new update!!! 💯💯🔥 😂😂,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+188,idk man... the site keeps lagging :( @brand,"['idk', 'man', 'site', 'keeps', 'lagging']",negative
+189,why the payment keeps failing 😡 @company pls fix!!!!!,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']",negative
+190,horrible! never ordering again 🤦‍♂️ 💀,"['horrible', 'ordering', 'man_facepalming', 'skull']",negative
+191,LOVED the new update!!! 💯💯🔥 ...,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+192,yayyyy my order arrived 🥳🥳🥳 🤣,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'rolling_on_the_floor_laughing']",positive
+193,yayyyy my order arrived 🥳🥳🥳 asap,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'asap']",positive
+194,customer srvc was great 👍👍 tbh,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'tbh']",positive
+195,haha they actually fixed it fast 👏👏!!!,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']",positive
+196,OMG 😍😍 this app is sooo cool!!! #awesome #fail,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+197,idk man... the site keeps lagging :( lol,"['idk', 'man', 'site', 'keeps', 'lagging', 'lol']",negative
+198,Product okish... not bad tbh. smh,"['product', 'okish', 'bad', 'tbh', 'smh']",negative
+199,haha they actually fixed it fast 👏👏 #review,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']",positive
+200,what the hell is wrong with ur app?? 😤😤 pls fix,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'pls', 'fix']",negative
+201,customer srvc was great 👍👍 frfr,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'frfr']",positive
+202,brooo this thing is AMAZINGGG 😍🔥 frfr,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'frfr']",positive
+203,no issues so far. nice job. #loveit,"['issues', 'far', 'nice', 'job']",neutral
+204,ugh... delivery took foreverrr 😤😤 asap,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'asap']",negative
+205,customer srvc was great 👍👍 #loveit,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+206,update ruined everything smh 😩 @brand,"['update', 'ruined', 'smh', 'weary_face']",negative
+207,LOVED the new update!!! 💯💯🔥 omg,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'omg']",positive
+208,horrible! never ordering again 🤦‍♂️ 🤣,"['horrible', 'ordering', 'man_facepalming', 'rolling_on_the_floor_laughing']",negative
+209,wtf was that error msg lol 😂😂,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+210,what the hell is wrong with ur app?? 😤😤 #fail,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+211,customer srvc was great 👍👍 lol,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'lol']",positive
+212,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+213,quality was fine ig 🤷‍♂️ @brand,"['quality', 'fine', 'ig', 'man_shrugging']",negative
+214,ugh... delivery took foreverrr 😤😤 pls fix,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'pls', 'fix']",negative
+215,wtf was that error msg lol 😂😂 lol,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'lol']",positive
+216,no issues so far. nice job. pls fix,"['issues', 'far', 'nice', 'job', 'pls', 'fix']",negative
+217,order canceled without reason?? tbh,"['order', 'canceled', 'reason', 'tbh']",negative
+218,haha they actually fixed it fast 👏👏 🤣,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'rolling_on_the_floor_laughing']",positive
+219,horrible! never ordering again 🤦‍♂️ #fail,"['horrible', 'ordering', 'man_facepalming']",negative
+220,OMG 😍😍 this app is sooo cool!!! #awesome!!!,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+221,what the hell is wrong with ur app?? 😤😤 💀,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']",negative
+222,update ruined everything smh 😩 pls fix,"['update', 'ruined', 'smh', 'weary_face', 'pls', 'fix']",negative
+223,ugh... delivery took foreverrr 😤😤 ...,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+224,update ruined everything smh 😩 😂😂,"['update', 'ruined', 'smh', 'weary_face', 'face_with_tears_of_joy::face_with_tears_of_joy']",negative
+225,LOVED the new update!!! 💯💯🔥 #fail,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+226,ugh... delivery took foreverrr 😤😤 lol,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'lol']",negative
+227,yayyyy my order arrived 🥳🥳🥳 haha,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'haha']",positive
+228,quality was fine ig 🤷‍♂️,"['quality', 'fine', 'ig', 'man_shrugging']",negative
+229,Product okish... not bad tbh. pls fix,"['product', 'okish', 'bad', 'tbh', 'pls', 'fix']",negative
+230,order canceled without reason?? omg,"['order', 'canceled', 'reason', 'omg']",negative
+231,order canceled without reason?? pls fix,"['order', 'canceled', 'reason', 'pls', 'fix']",negative
+232,ugh... delivery took foreverrr 😤😤 pls fix,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'pls', 'fix']",negative
+233,wtf was that error msg lol 😂😂 tbh,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'tbh']",negative
+234,horrible! never ordering again 🤦‍♂️ 🤣,"['horrible', 'ordering', 'man_facepalming', 'rolling_on_the_floor_laughing']",negative
+235,idk man... the site keeps lagging :( haha,"['idk', 'man', 'site', 'keeps', 'lagging', 'haha']",negative
+236,horrible! never ordering again 🤦‍♂️ haha,"['horrible', 'ordering', 'man_facepalming', 'haha']",negative
+237,OMG 😍😍 this app is sooo cool!!! #awesome #fail,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+238,what the hell is wrong with ur app?? 😤😤 omg,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'omg']",negative
+239,update ruined everything smh 😩 smh,"['update', 'ruined', 'smh', 'weary_face', 'smh']",negative
+240,OMG 😍😍 this app is sooo cool!!! #awesome 🤣,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'rolling_on_the_floor_laughing']",positive
+241,order canceled without reason?? smh,"['order', 'canceled', 'reason', 'smh']",negative
+242,brooo this thing is AMAZINGGG 😍🔥!!!,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']",positive
+243,wtf was that error msg lol 😂😂!!!,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+244,customer srvc was great 👍👍 💀,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'skull']",positive
+245,Received item late but okay quality. asap,"['received', 'item', 'late', 'okay', 'quality', 'asap']",negative
+246,order canceled without reason?? 💀,"['order', 'canceled', 'reason', 'skull']",negative
+247,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']",neutral
+248,horrible! never ordering again 🤦‍♂️ haha,"['horrible', 'ordering', 'man_facepalming', 'haha']",negative
+249,meh... okay experience overall.,"['meh', 'okay', 'experience', 'overall']",negative
+250,LOVED the new update!!! 💯💯🔥 ...,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+251,idk man... the site keeps lagging :( omg,"['idk', 'man', 'site', 'keeps', 'lagging', 'omg']",negative
+252,order canceled without reason?? lol,"['order', 'canceled', 'reason', 'lol']",negative
+253,meh... okay experience overall. asap,"['meh', 'okay', 'experience', 'overall', 'asap']",negative
+254,what the hell is wrong with ur app?? 😤😤 tbh,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'tbh']",negative
+255,idk man... the site keeps lagging :( 💀,"['idk', 'man', 'site', 'keeps', 'lagging', 'skull']",negative
+256,customer srvc was great 👍👍!!!,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+257,customer srvc was great 👍👍 🤣,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'rolling_on_the_floor_laughing']",positive
+258,customer srvc was great 👍👍 asap,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'asap']",positive
+259,no issues so far. nice job. asap,"['issues', 'far', 'nice', 'job', 'asap']",negative
+260,Received item late but okay quality. #fail,"['received', 'item', 'late', 'okay', 'quality']",negative
+261,brooo this thing is AMAZINGGG 😍🔥 frfr,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'frfr']",positive
+262,ugh... delivery took foreverrr 😤😤 @brand,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+263,OMG 😍😍 this app is sooo cool!!! #awesome,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+264,what the hell is wrong with ur app?? 😤😤 #review,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+265,brooo this thing is AMAZINGGG 😍🔥 asap,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'asap']",positive
+266,Received item late but okay quality. #review,"['received', 'item', 'late', 'okay', 'quality']",negative
+267,quality was fine ig 🤷‍♂️ 🤣,"['quality', 'fine', 'ig', 'man_shrugging', 'rolling_on_the_floor_laughing']",negative
+268,customer srvc was great 👍👍 #review,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+269,update ruined everything smh 😩 #review,"['update', 'ruined', 'smh', 'weary_face']",negative
+270,ugh... delivery took foreverrr 😤😤 asap,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'asap']",negative
+271,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']",neutral
+272,OMG 😍😍 this app is sooo cool!!! #awesome asap,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'asap']",positive
+273,ugh... delivery took foreverrr 😤😤 #fail,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+274,Product okish... not bad tbh. 💀,"['product', 'okish', 'bad', 'tbh', 'skull']",negative
+275,customer srvc was great 👍👍 #fail,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+276,meh... okay experience overall.,"['meh', 'okay', 'experience', 'overall']",negative
+277,meh... okay experience overall. pls fix,"['meh', 'okay', 'experience', 'overall', 'pls', 'fix']",negative
+278,LOVED the new update!!! 💯💯🔥 omg,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'omg']",positive
+279,quality was fine ig 🤷‍♂️ omg,"['quality', 'fine', 'ig', 'man_shrugging', 'omg']",negative
+280,OMG 😍😍 this app is sooo cool!!! #awesome,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+281,wtf was that error msg lol 😂😂 @brand,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+282,why the payment keeps failing 😡 @company pls fix!! 😂😂,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'face_with_tears_of_joy::face_with_tears_of_joy']",negative
+283,haha they actually fixed it fast 👏👏 omg,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'omg']",positive
+284,horrible! never ordering again 🤦‍♂️ 🤣,"['horrible', 'ordering', 'man_facepalming', 'rolling_on_the_floor_laughing']",negative
+285,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']",neutral
+286,Received item late but okay quality. 😂😂,"['received', 'item', 'late', 'okay', 'quality', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+287,Product okish... not bad tbh. @brand,"['product', 'okish', 'bad', 'tbh']",negative
+288,update ruined everything smh 😩 🤣,"['update', 'ruined', 'smh', 'weary_face', 'rolling_on_the_floor_laughing']",negative
+289,update ruined everything smh 😩!!!,"['update', 'ruined', 'smh', 'weary_face']",negative
+290,what the hell is wrong with ur app?? 😤😤!!!,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+291,Received item late but okay quality. ...,"['received', 'item', 'late', 'okay', 'quality']",negative
+292,ugh... delivery took foreverrr 😤😤 #review,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+293,update ruined everything smh 😩 #review,"['update', 'ruined', 'smh', 'weary_face']",negative
+294,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']",negative
+295,quality was fine ig 🤷‍♂️!!!,"['quality', 'fine', 'ig', 'man_shrugging']",negative
+296,ugh... delivery took foreverrr 😤😤 smh,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'smh']",negative
+297,brooo this thing is AMAZINGGG 😍🔥 ...,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']",positive
+298,why the payment keeps failing 😡 @company pls fix!! asap,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'asap']",negative
+299,yayyyy my order arrived 🥳🥳🥳 #loveit,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']",positive
+300,OMG 😍😍 this app is sooo cool!!! #awesome pls fix,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'pls', 'fix']",positive
+301,quality was fine ig 🤷‍♂️ tbh,"['quality', 'fine', 'ig', 'man_shrugging', 'tbh']",negative
+302,horrible! never ordering again 🤦‍♂️ asap,"['horrible', 'ordering', 'man_facepalming', 'asap']",negative
+303,ugh... delivery took foreverrr 😤😤 😂😂,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'face_with_tears_of_joy::face_with_tears_of_joy']",negative
+304,wtf was that error msg lol 😂😂!!!,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+305,idk man... the site keeps lagging :( lol,"['idk', 'man', 'site', 'keeps', 'lagging', 'lol']",negative
+306,Received item late but okay quality. #fail,"['received', 'item', 'late', 'okay', 'quality']",negative
+307,haha got refund today finally 😂😂 ...,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+308,what the hell is wrong with ur app?? 😤😤 #review,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+309,idk man... the site keeps lagging :( tbh,"['idk', 'man', 'site', 'keeps', 'lagging', 'tbh']",negative
+310,meh... okay experience overall. lol,"['meh', 'okay', 'experience', 'overall', 'lol']",neutral
+311,ugh... delivery took foreverrr 😤😤 💀,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose', 'skull']",negative
+312,order canceled without reason?? #fail,"['order', 'canceled', 'reason']",negative
+313,Received item late but okay quality. #loveit,"['received', 'item', 'late', 'okay', 'quality']",negative
+314,what the hell is wrong with ur app?? 😤😤 pls fix,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'pls', 'fix']",negative
+315,idk man... the site keeps lagging :( frfr,"['idk', 'man', 'site', 'keeps', 'lagging', 'frfr']",negative
+316,no issues so far. nice job. tbh,"['issues', 'far', 'nice', 'job', 'tbh']",negative
+317,order canceled without reason?? tbh,"['order', 'canceled', 'reason', 'tbh']",negative
+318,haha they actually fixed it fast 👏👏 🤣,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'rolling_on_the_floor_laughing']",positive
+319,yayyyy my order arrived 🥳🥳🥳 😂😂,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+320,Received item late but okay quality. #review,"['received', 'item', 'late', 'okay', 'quality']",negative
+321,OMG 😍😍 this app is sooo cool!!! #awesome #loveit,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+322,yayyyy my order arrived 🥳🥳🥳 omg,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'omg']",positive
+323,customer srvc was great 👍👍 asap,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'asap']",positive
+324,idk man... the site keeps lagging :( pls fix,"['idk', 'man', 'site', 'keeps', 'lagging', 'pls', 'fix']",negative
+325,update ruined everything smh 😩 omg,"['update', 'ruined', 'smh', 'weary_face', 'omg']",negative
+326,wtf was that error msg lol 😂😂 🤣,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'rolling_on_the_floor_laughing']",neutral
+327,LOVED the new update!!! 💯💯🔥 lol,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'lol']",positive
+328,yayyyy my order arrived 🥳🥳🥳,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face']",positive
+329,brooo this thing is AMAZINGGG 😍🔥 pls fix,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'pls', 'fix']",positive
+330,why the payment keeps failing 😡 @company pls fix!! #loveit,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix']",negative
+331,horrible! never ordering again 🤦‍♂️ #loveit,"['horrible', 'ordering', 'man_facepalming']",negative
+332,Product okish... not bad tbh. tbh,"['product', 'okish', 'bad', 'tbh', 'tbh']",negative
+333,haha got refund today finally 😂😂 #review,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+334,yayyyy my order arrived 🥳🥳🥳 💀,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'skull']",positive
+335,wtf was that error msg lol 😂😂,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+336,OMG 😍😍 this app is sooo cool!!! #awesome,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+337,LOVED the new update!!! 💯💯🔥 @brand,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+338,horrible! never ordering again 🤦‍♂️ smh,"['horrible', 'ordering', 'man_facepalming', 'smh']",negative
+339,brooo this thing is AMAZINGGG 😍🔥 haha,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'haha']",positive
+340,wtf was that error msg lol 😂😂 tbh,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'tbh']",negative
+341,wtf was that error msg lol 😂😂 #loveit,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+342,order canceled without reason?? asap,"['order', 'canceled', 'reason', 'asap']",negative
+343,Product okish... not bad tbh. omg,"['product', 'okish', 'bad', 'tbh', 'omg']",negative
+344,no issues so far. nice job. tbh,"['issues', 'far', 'nice', 'job', 'tbh']",negative
+345,update ruined everything smh 😩 #loveit,"['update', 'ruined', 'smh', 'weary_face']",negative
+346,LOVED the new update!!! 💯💯🔥 omg,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'omg']",positive
+347,OMG 😍😍 this app is sooo cool!!! #awesome tbh,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool', ' ', 'tbh']",positive
+348,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+349,no issues so far. nice job.,"['issues', 'far', 'nice', 'job']",neutral
+350,idk man... the site keeps lagging :(!!!,"['idk', 'man', 'site', 'keeps', 'lagging']",negative
+351,customer srvc was great 👍👍 @brand,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+352,LOVED the new update!!! 💯💯🔥 tbh,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire', 'tbh']",neutral
+353,OMG 😍😍 this app is sooo cool!!! #awesome #review,"['omg', 'smiling_face_with_heart', 'eyes::smiling_face_with_heart', 'eyes', 'app', 'sooo', 'cool']",positive
+354,what the hell is wrong with ur app?? 😤😤,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+355,meh... okay experience overall. 🤣,"['meh', 'okay', 'experience', 'overall', 'rolling_on_the_floor_laughing']",negative
+356,Product okish... not bad tbh. haha,"['product', 'okish', 'bad', 'tbh', 'haha']",negative
+357,customer srvc was great 👍👍!!!,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+358,horrible! never ordering again 🤦‍♂️ lol,"['horrible', 'ordering', 'man_facepalming', 'lol']",negative
+359,update ruined everything smh 😩 💀,"['update', 'ruined', 'smh', 'weary_face', 'skull']",negative
+360,brooo this thing is AMAZINGGG 😍🔥 lol,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'lol']",positive
+361,wtf was that error msg lol 😂😂 💀,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'skull']",negative
+362,why the payment keeps failing 😡 @company pls fix!! pls fix,"['payment', 'keeps', 'failing', 'enraged_face', ' ', 'pls', 'fix', 'pls', 'fix']",negative
+363,customer srvc was great 👍👍 #loveit,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+364,LOVED the new update!!! 💯💯🔥 #fail,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+365,meh... okay experience overall. 😂😂,"['meh', 'okay', 'experience', 'overall', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+366,haha they actually fixed it fast 👏👏 😂😂,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+367,brooo this thing is AMAZINGGG 😍🔥 omg,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'omg']",positive
+368,what the hell is wrong with ur app?? 😤😤 asap,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'asap']",negative
+369,update ruined everything smh 😩,"['update', 'ruined', 'smh', 'weary_face']",negative
+370,customer srvc was great 👍👍 ...,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up']",positive
+371,order canceled without reason?? 💀,"['order', 'canceled', 'reason', 'skull']",negative
+372,what the hell is wrong with ur app?? 😤😤 @brand,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+373,wtf was that error msg lol 😂😂 @brand,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+374,horrible! never ordering again 🤦‍♂️!!!,"['horrible', 'ordering', 'man_facepalming']",negative
+375,haha got refund today finally 😂😂 pls fix,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'pls', 'fix']",positive
+376,update ruined everything smh 😩 😂😂,"['update', 'ruined', 'smh', 'weary_face', 'face_with_tears_of_joy::face_with_tears_of_joy']",negative
+377,yayyyy my order arrived 🥳🥳🥳 haha,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'haha']",positive
+378,haha they actually fixed it fast 👏👏 #fail,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands']",positive
+379,yayyyy my order arrived 🥳🥳🥳 💀,"['yayyyy', 'order', 'arrived', 'partying_face::partying_face::partying_face', 'skull']",positive
+380,brooo this thing is AMAZINGGG 😍🔥 #fail,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire']",positive
+381,horrible! never ordering again 🤦‍♂️ 🤣,"['horrible', 'ordering', 'man_facepalming', 'rolling_on_the_floor_laughing']",negative
+382,LOVED the new update!!! 💯💯🔥 #fail,"['loved', 'new', 'update', 'hundred_points::hundred_points::fire']",positive
+383,customer srvc was great 👍👍 lol,"['customer', 'srvc', 'great', 'thumbs_up::thumbs_up', 'lol']",positive
+384,order canceled without reason?? #loveit,"['order', 'canceled', 'reason']",negative
+385,brooo this thing is AMAZINGGG 😍🔥 frfr,"['brooo', 'thing', 'amazinggg', 'smiling_face_with_heart', 'eyes::fire', 'frfr']",positive
+386,wtf was that error msg lol 😂😂 #fail,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+387,haha got refund today finally 😂😂 tbh,"['haha', 'got', 'refund', 'today', 'finally', 'face_with_tears_of_joy::face_with_tears_of_joy', 'tbh']",positive
+388,meh... okay experience overall. 🤣,"['meh', 'okay', 'experience', 'overall', 'rolling_on_the_floor_laughing']",negative
+389,no issues so far. nice job. #fail,"['issues', 'far', 'nice', 'job']",neutral
+390,no issues so far. nice job. pls fix,"['issues', 'far', 'nice', 'job', 'pls', 'fix']",negative
+391,order canceled without reason??!!!,"['order', 'canceled', 'reason']",negative
+392,ugh... delivery took foreverrr 😤😤,"['ugh', 'delivery', 'took', 'foreverrr', 'face_with_steam_from_nose::face_with_steam_from_nose']",negative
+393,order canceled without reason??!!!,"['order', 'canceled', 'reason']",negative
+394,wtf was that error msg lol 😂😂!!!,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy']",neutral
+395,wtf was that error msg lol 😂😂 😂😂,"['wtf', 'error', 'msg', 'lol', 'face_with_tears_of_joy::face_with_tears_of_joy', 'face_with_tears_of_joy::face_with_tears_of_joy']",positive
+396,what the hell is wrong with ur app?? 😤😤 😂😂,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'face_with_tears_of_joy::face_with_tears_of_joy']",negative
+397,what the hell is wrong with ur app?? 😤😤 frfr,"['hell', 'wrong', 'ur', 'app', 'face_with_steam_from_nose::face_with_steam_from_nose', 'frfr']",negative
+398,Product okish... not bad tbh. frfr,"['product', 'okish', 'bad', 'tbh', 'frfr']",negative
+399,Product okish... not bad tbh. #review,"['product', 'okish', 'bad', 'tbh']",negative
+400,haha they actually fixed it fast 👏👏 asap,"['haha', 'actually', 'fixed', 'fast', 'clapping_hands::clapping_hands', 'asap']",positive
